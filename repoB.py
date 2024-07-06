@@ -12,3 +12,4 @@ if config['error_repoB']:
     print("Error_RepoB is true")
 else:
     print("Running in RepoB,all is Good")
+print("testing")
